@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Summer 2022 Project" external.linked.project.path="$MODULE_DIR$/../../../.." external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../MapBox/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../MapBox/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../MapBox/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../flutter_login_ui-main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../flutter_login_ui-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../flutter_login_ui-main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Flutter-Map-Uber-Style-master/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Flutter-Map-Uber-Style-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Flutter-Map-Uber-Style-master/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
